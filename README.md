@@ -16,7 +16,7 @@ Apasionado por el desarrollo de **soluciones tecnológicas integrales y holísti
 - Liderando proyectos Freelance
 
 ### 📈 GitHub Stats
-![Christian's GitHub stats](https://github-stats-seven-taupe.vercel.app/api?username=chris3118&show_icons=true&theme=radical)
+![Christian's GitHub stats](https://github-stats-seven-taupe.vercel.app/api?username=chris3118&show_icons=true&theme=radical&count_private=true)
 
 ### 🔗 Conectemos
 - 🌐 **Portafolio:** [portfolio-christian-davila.vercel.app](https://portfolio-christian-davila.vercel.app)
