@@ -18,6 +18,9 @@ Apasionado por el desarrollo de **soluciones tecnológicas integrales y holísti
 ### 📈 GitHub Stats
 ![Christian's GitHub stats](https://github-stats-seven-taupe.vercel.app/api?username=chris3118&show_icons=true&theme=radical&count_private=true)
 
+![Christian's GitHub stats](https://your-vercel-deployment.vercel.app/api?username=chris3118&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+
 ### 🔗 Conectemos
 - 🌐 **Portafolio:** [portfolio-christian-davila.vercel.app](https://portfolio-christian-davila.vercel.app)
 - 📧 **Email:** davilachristian659@outlook.com
