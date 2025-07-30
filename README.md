@@ -16,12 +16,12 @@ Apasionado por el desarrollo de **soluciones tecnológicas integrales y holísti
 - Liderando proyectos Freelance
 
 ### 📈 GitHub Stats
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris3118&show_icons=true&theme=radical)
+![Christian's GitHub stats](https://github-stats-seven-taupe.vercel.app/api?username=chris3118&show_icons=true&theme=radical)
 
 ### 🔗 Conectemos
 - 🌐 **Portafolio:** [portfolio-christian-davila.vercel.app](https://portfolio-christian-davila.vercel.app)
 - 📧 **Email:** davilachristian659@outlook.com
-- 💼 **LinkedIn:** [[Tu perfil de LinkedIn]](https://linkedin.com/in/christian-dávila-3a76b4214)
+- 💼 **LinkedIn:** [[Christian Dávila]](https://linkedin.com/in/christian-dávila-3a76b4214)
 
 ---
 ⭐️ **"Creo firmemente en el aprendizaje continuo y la adaptación constante"**
